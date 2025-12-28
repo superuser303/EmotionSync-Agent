@@ -9,4 +9,4 @@ A real-time conversational agent that detects emotions from webcam video and res
 # Setup 
 ''bash 
 pip install -r requirements.txt 
-streamlit run src/emotion_conversational_agent.py
+streamlit run src/emotion_conversational_agent.py''
